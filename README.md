@@ -1,2 +1,2 @@
 # TassMaster
-Parts and code for finger stimulator
+Parts, code, and scientific resources for a finger stimulator
