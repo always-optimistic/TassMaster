@@ -3,3 +3,8 @@ This manuscript describes the rationale, hardware design, and stimulation patter
 
 Khaledi-Nasab A, Kromer JA, Tass PA. Long-Lasting Desynchronization Effects of Coordinated Reset Stimulation Improved by Random Jitters. Front Physiol. 2021 Sep 24;12:719680. doi: 10.3389/fphys.2021.719680. PMID: 34630142; PMCID: PMC8497886.
 A comparison of different stimulation patterns for vibrotactile coordinated reset and measures of their efficacies.
+
+Zechariah, S and G. Kollannur. Sensorimotor Neuroscience, Psychphysics, and our work.  CPSC.86-L22-NeurosciencePsychophysics.pdf. 
+This is a PDF I found on the internet that provides useful background information that is relevant to hobbyists building Tass stimulators.
+LESSONS: 1) The exact location of the stimulator is not critical as the "receptive fields" of Pacinian corpuscles are large. 2) The stimulators should generate light surface vibration and NOT be pressed firmly into the skin.
+
